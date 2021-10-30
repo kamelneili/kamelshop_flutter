@@ -1,6 +1,8 @@
 # kamelshop
 
 A new Flutter project.
+link to the backend api:
+https://github.com/kamelneili/kamelshop_api
 
 ## Getting Started
 
