@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996015370813",
+    "project_id": "kamelshop-6135e",
+    "storage_bucket": "kamelshop-6135e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996015370813:android:9fb2469c5dc16748ed3054",
+        "android_client_info": {
+          "package_name": "com.example.kamelshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996015370813-1jl9qi2nkm2r66s65na1nobpu3sbt45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsof4WogXdZWwv_AwuGLaHSOVi-h9gaNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996015370813-1jl9qi2nkm2r66s65na1nobpu3sbt45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
