@@ -3,10 +3,13 @@
 A new Flutter project.
 link to the backend api:
 https://github.com/kamelneili/kamelshop_api
+#Why bloc ?
+Business logic components (BLoC) allow you to separate the business logic from the UI. Writing code in BLoC makes it easier to write and reuse tests. Clean architecture with bloc will solve your problem. Your code will become scalable maintainable and testable
 
 ## Getting Started
 
 link to the youtube video [![IMAGE ALT TEXT HERE]https://i9.ytimg.com/vi_webp/evaBPBp5AxI/mqdefault.webp?v=6172cad9&sqp=CNS_9IsG&rs=AOn4CLAWQjem664Y5MkNkvadnDAjyoZ2sA)](https://www.youtube.com/watch?v=evaBPBp5AxI)
+#Photos
 ![MOCK](https://user-images.githubusercontent.com/14231362/141698418-bde3a35e-2c18-43c9-94f1-9c7d8ebd3038.jpg)
 ![modif](https://user-images.githubusercontent.com/14231362/141701543-4bff1d75-ab93-45ee-aec1-37cc6be3098b.jpg)
 
